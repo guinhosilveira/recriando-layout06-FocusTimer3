@@ -1,0 +1,6 @@
+- fazer alteração nos botões de status (mudar bg-color e fill); OK
+- mudar valor do timer com botões de mais e menos; OK
+- mudar valor do timer com o play; OK
+- parar o time com o stop; OK
+- fazer tocar som; OK
+- modularizar; OK
